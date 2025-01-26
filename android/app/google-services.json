@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "22020317033",
+    "firebase_url": "https://tick-et-easy.firebaseio.com",
+    "project_id": "tick-et-easy",
+    "storage_bucket": "tick-et-easy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22020317033:android:66c2ca601dfdc5b9f7e7f8",
+        "android_client_info": {
+          "package_name": "com.ticket_wise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22020317033-vum3mr24oj3a2qgaamj4m7qljrfs57i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgcJ-vYDv3ZVUIYFIumDV5VmHB1Kj7YBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22020317033-vum3mr24oj3a2qgaamj4m7qljrfs57i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
